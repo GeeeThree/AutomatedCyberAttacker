@@ -15,6 +15,11 @@ pip install pymetasploit
 pip install pyswip
 ```
 
+This script can be run once Kali Linux and Metasploitable II virtual machines have been installed and the IP addresses have been defined and edited in the files. In order to run the whole project, on the command line of Kali Linux one should run:
+```
+python /path/to/MasterScript.py
+```
+
 The attacking operating system is Kali Linux and the victim machine is Metasploitable II. 
 Importatant key notes:
   - Check if Metasploit server and Postgresql are up and running before using any attacks
