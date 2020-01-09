@@ -26,3 +26,4 @@ Importatant key notes:
   - Start the msfrpcd at the beginning of the session through the script (for some reason PyMetasploit does not access the current running server)
   - This project is targeting a specific IP address just as proof that automation and semi-intelligence is possible, tweaks and more reconnaissance would be needed to attack a random IP address on the network
   - This project was experimented and conducted within an isolated network
+  - All files should be in the same location, otherwise the code needs to be modified to the correct filepaths. 
